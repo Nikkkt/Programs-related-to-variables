@@ -1,0 +1,3 @@
+﻿  Call calculation with per-second billing.cpp
+C:\Users\NTer\Desktop\Programming\C++\Homeworks\Programs related to variables\Call calculation with per-second billing\Call calculation with per-second billing.cpp(6,35): warning C4305: инициализация: усечение из "double" в "float"
+  Call calculation with per-second billing.vcxproj -> C:\Users\NTer\Desktop\Programming\C++\Homeworks\Programs related to variables\Call calculation with per-second billing\x64\Debug\Call calculation with per-second billing.exe

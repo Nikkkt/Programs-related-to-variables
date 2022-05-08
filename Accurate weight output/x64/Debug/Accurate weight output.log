@@ -1,0 +1,3 @@
+﻿  Accurate weight output.cpp
+C:\Users\NTer\Desktop\Programming\C++\Homeworks\Programs related to variables\Accurate weight output\Accurate weight output.cpp(12,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Accurate weight output.vcxproj -> C:\Users\NTer\Desktop\Programming\C++\Homeworks\Programs related to variables\Accurate weight output\x64\Debug\Accurate weight output.exe
